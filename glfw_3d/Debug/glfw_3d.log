@@ -1,0 +1,9 @@
+﻿  main.cpp
+i:\opencv_practice\camera\glfw_3d\glfw_3d\main.cpp(7): warning C4305: “初始化”: 从“double”到“float”截断
+  ObjLoader.cpp
+i:\opencv_practice\camera\glfw_3d\glfw_3d\objloader.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+i:\opencv_practice\camera\glfw_3d\glfw_3d\objloader.cpp(53): warning C4018: “>”: 有符号/无符号不匹配
+i:\opencv_practice\camera\glfw_3d\glfw_3d\objloader.cpp(53): warning C4018: “>=”: 有符号/无符号不匹配
+  正在生成代码...
+  glfw_3d.vcxproj -> I:\opencv_practice\camera\glfw_3d\Debug\glfw_3d.exe
+  glfw_3d.vcxproj -> I:\opencv_practice\camera\glfw_3d\Debug\glfw_3d.pdb (Full PDB)

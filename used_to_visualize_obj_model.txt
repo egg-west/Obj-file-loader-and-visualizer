@@ -1,0 +1,1 @@
+This is an initial version of ObjLoader. Compared to our baseline, we speed up the process by utilizing glmath library ang reduece the code at the same time.
